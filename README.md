@@ -5,4 +5,6 @@
 
 • This is my first official github project
 
+## Why am I making this ❓
 • I am making this project in order to learn unity and improve my game making skills
+
